@@ -18,7 +18,7 @@ Dataset: Sample - Superstore.csv
 
 Contains: Order details, sales, profit, categories, sub-categories, shipping, and date information.
 
-✨ Highlights / Features
+✨ **Highlights / Features**
 
 📊 Monthly Sales & Profit Analysis: Line charts to track trends over time.
 
@@ -30,7 +30,7 @@ Contains: Order details, sales, profit, categories, sub-categories, shipping, an
 
 💡 Actionable Insights: Identify growth opportunities & optimize decision-making.
 
-💼 Business Impact
+💼 **Business Impact**
 
 🎯 Helps management understand revenue & profitability drivers.
 
